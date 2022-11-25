@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"boletin14_1","l":"App"},{"p":"org.danielcastelao.ruben","l":"CPU"},{"p":"org.danielcastelao.ruben","l":"Monitor"},{"p":"boletin14_1","l":"Ordenador"},{"p":"org.danielcastelao.ruben","l":"Teclado"}]
